@@ -9,3 +9,4 @@
 8) for excel export (poi-ooxml)
 9) for mailing (spring-boot-starter-mail)
 10) lombok - for time saving not have to write getter and setters(lombok)
+11) dotenv
