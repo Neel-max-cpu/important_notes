@@ -1,0 +1,10 @@
+// some imp dependecy -
+1) spring web when making the project (rest controller - spring-boot-starter-web, spring-boot-starter-test)
+2) spring-boot-starter-validation (validation - spring-boot-starter-validation)
+3) jakarta.persistence-api (sql queries jpa - jakarta.persistence-api and spring-boot-starter-data-jpa)
+4) json web token (jjwt-api, jjwt-impl, jjwt-jackson don't remove version)
+5) security (spring-boot-starter-security)
+6) for mysql connection (mysql-connector-j)
+7) for mssql connection (mssql-jdbc)
+8) for excel export (poi-ooxml)
+9) for mailing (spring-boot-starter-mail)
